@@ -8,7 +8,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudinhxzs&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Karinne Ventura github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakventura&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudinhxzs&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
 </div>
 
 <br>
@@ -37,7 +37,6 @@ style="border-radius: 4px"</a>
  ### Learning tools:
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![netbeans](https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
